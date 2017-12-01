@@ -1,0 +1,23 @@
+{
+  "name": "mean-blog",
+  "version": "1.0.0",
+  "description": "\"# Mean-BlogPost\"",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uchihasaske/Mean-BlogPost.git"
+  },
+  "author": "Akash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uchihasaske/Mean-BlogPost/issues"
+  },
+  "homepage": "https://github.com/uchihasaske/Mean-BlogPost#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^4.13.5"
+  }
+}
